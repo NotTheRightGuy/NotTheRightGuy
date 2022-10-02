@@ -67,5 +67,11 @@
 <br />
 
 # 📈 Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotTheRightGuy&show_icons=true&theme=dark)<br />
-[![GitHub Streak](https://streak-stats.demolab.com?user=NotTheRightGuy&theme=dark)](https://git.io/streak-stats)
+
+<div align='center'>
+
+![NotTheRightGuy's Stats](https://github-readme-stats.vercel.app/api?username=NotTheRightGuy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![NotTheRightGuy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotTheRightGuy&theme=vue-dark&hide_border=true)
+![NotTheRightGuy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTheRightGuy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
