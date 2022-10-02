@@ -1,3 +1,5 @@
+<div align="center"><img src="./assets/Banner%20Profile.gif" style="height:500px; width:100%;"/></div>
+
 <h1 align="center">Hi 👋, I'm Janmejay Chatterjee</h1>
 <h3 align="center">A student currently pursuing Computer Engineering from Adani University</h3>
 
