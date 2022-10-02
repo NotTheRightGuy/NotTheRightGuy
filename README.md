@@ -50,11 +50,11 @@
 ---
 ### 🧰 <strong>Languages and Tools<strong/>
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32px" align ="left" style="padding-right:7px; padding-top:4px;/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=32px align ="left" style="padding-right:7px; padding-top:4px;/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=32px align ="left" style="padding-right:7px; padding-top:4px;/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=32px align ="left" style="padding-right:7px; padding-top:4px;/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32px" align ="left" style="padding-right:7px; padding-top:4px;/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32px" align ="left" style="padding-right:7px; padding-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=32px align ="left" style="padding-right:7px; padding-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=32px align ="left" style="padding-right:7px; padding-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=32px align ="left" style="padding-right:7px; padding-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32px" align ="left" style="padding-right:7px; padding-top:4px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32px" align ="left" style="padding-right:7px; padding-top:4px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32px" align ="left" style="padding-right:7px; padding-top:4px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32px" align ="left" style="padding-right:7px; padding-top:4px;"/>
