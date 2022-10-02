@@ -45,27 +45,68 @@
 - 📫 You can reach me at **janmejaychatterjee@gmail.com**
 
 - ⚡ Fun fact **I really want to play chess but I way too dumb to learn it**
+  
+<br />
 
 
----
-### 🧰 <strong>Languages and Tools<strong/>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=32px align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=32px align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=32px align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<div />
+# 🧰 My Tool Kit 
+### Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32px" style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=32px  alt="python" style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=32px  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=32px  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<br />
+
+### Frameworks 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32px" style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<br />
+
+### Databases 
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<br />
+
+### Automation 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="32px" style="padding-right:7px; margin-top:4px;"/>
+<br />
+
+### Softwares 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="32px" style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="32px" style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<br />
+
+### IDE <h3/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="32px"  style="padding-right:7px; margin-top:4px; "/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<br />
+
+### OS <h3/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32px"  style="padding-right:7px;  margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<br />
+<br />
+
+# 📈 Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotTheRightGuy&show_icons=true&theme=dark)<br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=NotTheRightGuy&theme=dark)](https://git.io/streak-stats)
