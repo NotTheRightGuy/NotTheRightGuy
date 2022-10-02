@@ -50,60 +50,19 @@
 
 
 # 🧰 My Tool Kit 
-### Languages
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32px" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=32px  alt="python" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=32px  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=32px  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
+<br />
 <br />
 
-### Frameworks 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32px" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<br />
+| ~_~                                          | <p align='right'>T_T</p>                                                                               |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| <div style="font-size:22px">Languages</div>  | [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c,cpp,git)](https://skillicons.dev)        |
+| <div style="font-size:22px">Frameworks</div> | [![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs,react,bootstrap)](https://skillicons.dev) |
+| <div style="font-size:22px">Databases</div>  | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)                           |
+| <div style="font-size:22px">Automation</div> | [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)                        |
+| <div style="font-size:22px">Softwares</div>  | [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma)](https://skillicons.dev)     |
+| <div style="font-size:22px">IDE</div>        | [![My Skills](https://skillicons.dev/icons?i=atom,vscode,vim)](https://skillicons.dev)                 |
 
-### Databases 
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<br />
-
-### Automation 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="32px" style="padding-right:7px; margin-top:4px;"/>
-<br />
-
-### Softwares 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="32px" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="32px" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<br />
-
-### IDE <h3/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="32px"  style="padding-right:7px; margin-top:4px; "/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<br />
-
-### OS <h3/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32px"  style="padding-right:7px;  margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="32px"  style="padding-right:7px; margin-top:4px;"/>
 <br />
 <br />
 
