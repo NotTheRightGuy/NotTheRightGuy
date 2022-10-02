@@ -57,11 +57,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32px" align ="left" style="padding-right:7px; margin-top:4px;"/>
