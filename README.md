@@ -49,7 +49,6 @@
 
 ---
 ### 🧰 <strong>Languages and Tools<strong/>
-<br />
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32px" align ="left" style="padding-right:10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=32px align ="left" style="padding-right:10px"/>
@@ -74,10 +73,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="32px" align ="left" style="padding-right:10px; padding-top:10px"/>
 
 <div />
-
-# 
-
-### Stats
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
 
