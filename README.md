@@ -44,7 +44,7 @@
 
 - 📫 You can reach me at **janmejaychatterjee@gmail.com**
 
-- ⚡ Fun fact **I really want to play chess but I way too dumb to learn it**
+- ⚡ Fun fact **I really want to play chess but I'm way too dumb**
   
 <br />
 
