@@ -32,15 +32,14 @@
 
 ---
 
-- 🔭 I’m currently working on **Bachelor-Tiffin-Service**
+- 👨‍ I'm Currently working on **ASPDC**
 
-- 🌱 I’m currently learning **React, Express**
+- 🌱 I’m currently learning **Nextjs and GSAP**
 
-- 🤝 I’m looking for help with **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NotTheRightGuy?tab=repositories](https://github.com/NotTheRightGuy?tab=repositories)
 
-- 💬 Ask me about **Python, C, C++, CSS, discord.js, discord.py**
+- 💬 Ask me about **React, Tailwindcss, Express, Firebase**
 
 - 📫 You can reach me at **janmejaychatterjee@gmail.com**
 
