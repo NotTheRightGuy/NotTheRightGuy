@@ -36,9 +36,6 @@
 
 - 🌱 I’m currently learning **Nextjs and GSAP**
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/NotTheRightGuy?tab=repositories](https://github.com/NotTheRightGuy?tab=repositories)
-
 - 💬 Ask me about **React, Tailwindcss, Express, Firebase**
 
 - 📫 You can reach me at **janmejaychatterjee@gmail.com**
