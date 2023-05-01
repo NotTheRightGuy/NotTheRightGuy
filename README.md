@@ -1,7 +1,7 @@
 <div align="center"><img src="./assets/Banner%20Profile.gif"/></div>
 <br/>
-<h1 align="left">Hi 👋, I'm Janmejay Chatterjee <img src="https://media.giphy.com/media/MxYQrB9jeGzza/giphy.gif" width="50"></h1> 
-<h3 align="center">I'm an student developer  building my version of digital world. I'm currently pursuing my Computer Engineering Degree from Adani University. I like to design codes solving real-life problems from the ground up.</h3>
+<h1 align="center">Hi 👋, I'm Janmejay Chatterjee <img src="https://media.giphy.com/media/MxYQrB9jeGzza/giphy.gif" width="50"></h1> 
+<h3 align="center">I'm an student developer building my version of digital world. I'm currently pursuing my Computer Engineering Degree from Adani University. I like to design codes solving real-life problems from the ground up.</h3>
 <br/>
 <!-- Social icons section -->
 <p align="center">
@@ -54,7 +54,7 @@
 <br />
 
 
-| ~_~                                          | <p align='right'>T_T</p>                                                                               |
+|                                           |                                                                               |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | <div style="font-size:22px">Languages</div>  | [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c,cpp,git)](https://skillicons.dev)        |
 | <div style="font-size:22px">Frameworks</div> | [![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs,react,bootstrap)](https://skillicons.dev) |
