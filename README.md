@@ -3,19 +3,7 @@
 <h1 align="center">Hi 👋, I'm Janmejay Chatterjee <img src="https://media4.giphy.com/media/RtnhWRcOVTWg875gn0/giphy.gif" width="50"></h1> 
 <h3 align="center">I'm an student developer building my version of digital world. I'm currently pursuing my Computer Engineering Degree from Adani University. I like to design codes solving real-life problems from the ground up.</h3>
 <br/>
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCtYCQToUB9jo9-nfrBm4WaQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/notJanmejay"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/meetdelsion/"><img width="32px" alt="Twitter" title="Instagram" src="./assets/instagram%20logo.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.leetcode.com/janmejaychatterjee/"><img width="32px" alt="Twitter" title="Instagram" src="./assets/leetcode%20logo.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/janmejay-chatterjee-4a5335202/"><img width="32px" alt="Twitter" title="Instagram" src="./assets/linkeldin%20logo.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+
 
 <br/>
 
