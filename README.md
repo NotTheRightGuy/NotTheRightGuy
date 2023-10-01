@@ -53,5 +53,8 @@
 ![NotTheRightGuy's Stats](https://github-readme-stats.vercel.app/api?username=NotTheRightGuy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![NotTheRightGuy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotTheRightGuy&theme=vue-dark&hide_border=true)
 ![NotTheRightGuy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTheRightGuy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 </div>
+
+<h2>🧿 Badges earned </h2>
+
+[![An image of @NotTheRightGuy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nottherightguy)](https://holopin.io/@nottherightguy)
