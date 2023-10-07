@@ -28,7 +28,6 @@
 ## 🔔 My Github Metrics
 
 ![Metrics](/github-metrics.svg)
-![Readme Card](https://github-readme-stats.vercel.app/api?username=nottherightguy)
 
 ## 📌 Holopins
 
