@@ -25,6 +25,40 @@
     -   Build my own PC
     -   Get a FAANG internship
 
+## 🎒 My Skills
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=007396)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikit-learn)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
+![Nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Next.js)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://janmejay.me)
+[![](https://img.shields.io/badge/-📰LocallyYours-000)](https://locally-yours.netlify.app/)
+[![](https://img.shields.io/badge/-📝Midway-000)](https://github.com/NotTheRightGuy/HackNUThon)
+[![](https://img.shields.io/badge/-💵Stock.pi-000)](https://stock-pi-nottherightguy.vercel.app/)
+
 ## 🔔 My Github Metrics
 
 ![Metrics](/github-metrics.svg)
