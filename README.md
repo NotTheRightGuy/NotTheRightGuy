@@ -14,16 +14,11 @@
 -   🔨 I'm currently
 
 ```yaml
-- Participating in Hacktoberfest 2023
-- Trying to learn more about AI and ML
-- Getting better in DSA
+- Getting Better at DSA
+- Learning about JS Frameworks
+- Getting Better at React
 ```
 
--   🤞 One day I hope to...
-    -   Go Skydiving!
-    -   Go Bungee Jumping!
-    -   Build my own PC
-    -   Get a FAANG internship
 
 ## 🎒 My Skills
 
