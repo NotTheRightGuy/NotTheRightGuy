@@ -1,6 +1,5 @@
 [<img src="./assets/Banner Profile.gif" alt="👋 Hi there! I'm Janmejay Chatterjee (https://janmejay.me)" title="👋 Hi there! I'm Janmejay Chatterjee (https://raymond.li)"/>](https://janmejay.me/)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=NotTheRightGuy&color=FF5733&logo=github&style=for-the-badge)
 
 ## 📖 About Me
 
