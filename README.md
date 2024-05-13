@@ -8,17 +8,6 @@
 -   🎓 Studying BE Computer Science AI - ML 𝚊𝚝 Adani University graduating October 2025
 -   🌐 You can visit my portfolio and access all my projects [here](https://janmejay.me).
 
-## ⬆ What I'm up to
-
--   🔨 I'm currently
-
-```yaml
-- Getting Better at DSA
-- Learning about JS Frameworks
-- Getting Better at React
-```
-
-
 ## 🎒 My Skills
 
 ### Languages
