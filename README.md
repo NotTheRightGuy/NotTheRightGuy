@@ -6,7 +6,7 @@
 -   🖥 Software Developer willing to learn anything and everything
 -   💼 Running ASPDC, Adani Student Programming and Development Club
 -   🎓 Studying BE Computer Science AI - ML 𝚊𝚝 Adani University graduating October 2025
--   🌐 You can visit my portfolio and access all my projects [here](https://janmejay.me).
+-   🌐 You can visit my portfolio and access all my projects [here](https://janmejay.netlify.app).
 
 ## 🎒 My Skills
 
